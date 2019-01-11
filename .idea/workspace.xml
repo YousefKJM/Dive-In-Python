@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de58d5c4-e88f-4e43-98ec-6cad5e686126" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/addition.py" beforeDir="false" afterPath="$PROJECT_DIR$/addition.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/buyLotsOfFruit.py" beforeDir="false" afterPath="$PROJECT_DIR$/buyLotsOfFruit.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/addition.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -22,20 +21,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/autograder.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/buyLotsOfFruit.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            <state relative-caret-position="425">
+              <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/buyLotsOfFruit.py">
+        <entry file="file://$PROJECT_DIR$/autograder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="367">
+              <caret line="256" lean-forward="true" selection-start-line="256" selection-end-line="256" />
             </state>
           </provider>
         </entry>
@@ -48,9 +47,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/buyLotsOfFruit.py" />
         <option value="$PROJECT_DIR$/autograder.py" />
         <option value="$PROJECT_DIR$/addition.py" />
+        <option value="$PROJECT_DIR$/buyLotsOfFruit.py" />
       </list>
     </option>
   </component>
@@ -149,24 +148,24 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/buyLotsOfFruit.py">
+    <entry file="file://$PROJECT_DIR$/addition.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="323">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/autograder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        <state relative-caret-position="367">
+          <caret line="256" lean-forward="true" selection-start-line="256" selection-end-line="256" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/addition.py">
+    <entry file="file://$PROJECT_DIR$/buyLotsOfFruit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        <state relative-caret-position="425">
+          <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
         </state>
       </provider>
     </entry>
